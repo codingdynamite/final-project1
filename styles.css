@@ -165,7 +165,7 @@ h1 {
     transition: border-color 300ms;
 }
 
-.header__email--button {
+.header__email--btn {
     z-index: 2;
     margin: 8px;
     height: calc(100% - 16px);
